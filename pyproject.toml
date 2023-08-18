@@ -18,7 +18,12 @@ known_third_party = [
     "numpy",
     "torch",
     "accelerate",
+    "scipy",
+    "tensorboardX",
+    "bitsandbytes",
     "transformers",
+    "datasets",
+    "py7zr"
 ]
 line_length = 119
 lines_after_imports = 2
