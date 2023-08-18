@@ -47,6 +47,11 @@ setup(
         "tqdm",
         "accelerate",
         "safetensors",
+        "datasets",
+        "scipy",
+        "bitsandbytes",
+        "py7zr",
+        "tensorboardX",
     ],
     extras_require=extras,
     classifiers=[
